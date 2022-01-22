@@ -44,3 +44,44 @@ inline
 
 https://imgbb.com/
 https://maps.google.com/
+
+////////
+design
+
+> inline
+> styletag
+> stylesheet
+
+inline>styletag>stylesheet
+
+div
+stylesheet{
+    text-align:right;
+    font-size:40px 
+    border:2px solid red;
+    background-color:orange
+}
+
+inline{
+   color:red;
+   font-size:30px;
+}
+
+styletag{
+    color:orange;
+    text-align:center;
+    font-weight:bold
+}
+
+
+
+{
+   color:red;
+   font-size:30px;
+   text-align:center;
+   font-weight:bold
+   border:2px solid red;
+   background-color:orange
+}
+
+https://raw.githubusercontent.com/Aakashdeveloper/Aakashdeveloper/master/README.md
