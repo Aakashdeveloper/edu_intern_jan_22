@@ -1,0 +1,50 @@
+body{
+    margin: auto;
+}
+/* Header Start */
+header{
+    height:60px;
+    background-color:#e09c83
+}
+
+#icon{
+    float:left
+}
+
+#social{
+    float:right
+}
+
+.slogo{
+    height: 50px;
+    width: 50px;
+}
+
+#mytext{
+    position: absolute;
+    margin-top:5%;
+    margin-left:10%
+}
+
+a{
+    text-decoration:none
+}
+
+/* Search Start */
+#search{
+    height:400px;
+    background-image: url('image/food-wallpaper.png');
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-size: 100% 400px;
+}
+/* QuickSearch Start */
+#QuickSearch{
+    height:600px;
+    border:10px groove orange
+}
+/* footer Start */
+footer{
+    height:80px;
+    border:2px dashed blue
+}

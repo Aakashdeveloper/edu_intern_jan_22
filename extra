@@ -85,3 +85,16 @@ styletag{
 }
 
 https://raw.githubusercontent.com/Aakashdeveloper/Aakashdeveloper/master/README.md
+
+////////
+tagname> h1, p, a
+id(#) > to target unique element
+class(.) > to target multiple element
+
+////////
+border:10px double green;
+solid
+dotted
+double
+groove
+dashed
