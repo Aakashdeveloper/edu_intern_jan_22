@@ -29,6 +29,13 @@ Zomato  > Firstapp
 ? > Second App
 
 
+3 project 
+> zomato  > Firstapp
+> ?  > Second App
+> profile
+many subtask
+
+
 html> main (hyper text markup language)
 head (contains all the link (css,javascript))
 body (contains all the content visible to user)
@@ -108,3 +115,27 @@ xs < 768px
 sm > 768px
 md > 992px
 lg > 1200px
+
+bootstrap4
+col- >576px
+sm < 576px
+md < 768px
+lg < 992px
+xl < 1200px
+
+
+bootstrap5
+col- >576px
+sm < 576px
+md < 768px
+lg < 992px
+xl < 1200px
+xxl < 1400px
+
+let const
+condition
+ifelse
+stringliteral
+function
+calc
+lightdarkmode
