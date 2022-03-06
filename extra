@@ -140,3 +140,6 @@ stringliteral
 function
 calc
 lightdarkmode
+
+
+https://api.openweathermap.org/data/2.5/forecast/daily?lat=28.989184&lon=77.0342729&mode=json&units=metric&cnt=1&appid=fbf712a5a83d7305c3cda4ca8fe7ef29
